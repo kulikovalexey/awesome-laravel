@@ -107,6 +107,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 * [Presenter](https://github.com/laracasts/Presenter) - Presenter for Models
+* [Messages] (https://github.com/laracasts/flash) - Messages in popas (*)
 * [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Hyn/multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
